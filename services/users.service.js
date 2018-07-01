@@ -3,8 +3,8 @@ let service = {};
 service.authenticate = function(username, password) {
   
   let user = {
-    username: 'ken',
-    password: 'ken'
+    username: 'kenken',
+    password: 'kenken'
   }
   return new Promise((resolve, reject) => {
 
